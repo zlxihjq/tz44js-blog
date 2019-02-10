@@ -1,0 +1,19 @@
+{
+  "name": "tz44js-blog",
+  "version": "1.0.0",
+  "description": "潭州教育44期js项目实战《简易个人博客》学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlxihjq/tz44js-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlxihjq/tz44js-blog/issues"
+  },
+  "homepage": "https://github.com/zlxihjq/tz44js-blog#readme"
+}
